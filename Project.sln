@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "Project.csproj", "{55DF3316-112A-405F-A9B7-9AB8FA9EC202}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8F8C22C-7F6F-4D92-A819-3B00E8CD11BB}"
+	ProjectSection(SolutionItems) = preProject
+		DBMySQLUtils.cs = DBMySQLUtils.cs
+		DBUtils.cs = DBUtils.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DF3316-112A-405F-A9B7-9AB8FA9EC202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DF3316-112A-405F-A9B7-9AB8FA9EC202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DF3316-112A-405F-A9B7-9AB8FA9EC202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DF3316-112A-405F-A9B7-9AB8FA9EC202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C0591A-E137-4255-98D4-E36C080801E2}
+	EndGlobalSection
+EndGlobal
